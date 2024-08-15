@@ -3,5 +3,5 @@
 
 Adds Romulan as Species to the Game.
 
-Image Source: memory-alpha
-Color Shema: [Star Trek color palettes](https://leonawicz.github.io/trekcolors/reference/trek_pal.html)
+- Image Source: memory-alpha
+- Color Shema: [Star Trek color palettes](https://leonawicz.github.io/trekcolors/reference/trek_pal.html)
