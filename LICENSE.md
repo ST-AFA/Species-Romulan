@@ -1,4 +1,4 @@
-MIT License
+# MIT License
 
 Copyright (c) 2024 A Final Assault - Mod Team
 
@@ -38,4 +38,4 @@ The use of elements from Star Trek in this fan work is intended to fall under th
 If CBS Studios/Paramount or any authorized representative requests the removal of this fan work, the author will comply promptly.
 
 6. Disclaimer:
-This fan work is not an official product of CBS Studios/Paramount. The author has made every effort to respect the original material and its creators
+This fan work is not an official product of CBS Studios/Paramount. The author has made every effort to respect the original material and its creators.
